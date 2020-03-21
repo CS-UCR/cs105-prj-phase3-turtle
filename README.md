@@ -97,10 +97,10 @@ Phase 3 - Tried to make a model to predict the rating of a review using the date
 
 Edward: 
 
-Phase 1 - 
+Phase 1 - Researched project ideas and potential data sets. Attempted to get yelp api/data set to work. 
 
-Phase 2 - 
+Phase 2 - Worked with scrapped data to create visualazations and insights into relevance of anti-aquarium sentiment and yelp ratings. 
 
-Phase 3 - 
+Phase 3 - Tried to make a model to predict the rating of a review using the date and text reviews as labels.
 
 
