@@ -70,3 +70,37 @@ In order to run the code, code must be open on Jupter Notebook since it is saved
 Run the code, you can change key words to change what words you want to correlate the certain groups.
 
 
+# cs105-prj-phase3-turtle
+cs105-prj-phase2-turtle created by GitHub Classroom
+
+Used KNN classifier to predict the rating of a review using the date and text reviews as labels. Broke down the text review words into different labels with weights. Tried using these labels to predict 
+
+Does not work. Could not get an accurate model working. 
+
+
+
+
+
+# Who did what 
+
+
+Sunny:
+
+Phase 1 - Explored different aquarium websites to scrape the data from. Eventually scraped data from only the Monterey Bay Aquarium website
+
+
+Phase 2 - Tried to run EDA on the current dataset we had from Monterey Aquarium. Decided we needed more data and tried getting the yelp API/data dump working. Could not get them working, ended up scraping the data from the Monterey Aquarium website itself. Ran some EDA with the reviews/ratings/text reviews
+
+
+Phase 3 - Tried to make a model to predict the rating of a review using the date and text reviews as labels.
+
+
+Edward: 
+
+Phase 1 - 
+
+Phase 2 - 
+
+Phase 3 - 
+
+
